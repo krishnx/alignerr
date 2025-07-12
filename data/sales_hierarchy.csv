@@ -1,0 +1,46 @@
+Category,Subcategory,Region,Sales
+Electronics,Smartphones,North America,28654
+Electronics,Smartphones,Europe,20795
+Electronics,Smartphones,Asia,5860
+Electronics,Smartphones,South America,10390
+Electronics,Smartphones,Africa,26575
+Electronics,Laptops,North America,16964
+Electronics,Laptops,Europe,16284
+Electronics,Laptops,Asia,27118
+Electronics,Laptops,South America,11265
+Electronics,Laptops,Africa,21850
+Electronics,Accessories,North America,9426
+Electronics,Accessories,Europe,26962
+Electronics,Accessories,Asia,19423
+Electronics,Accessories,South America,16363
+Electronics,Accessories,Africa,21023
+Clothing,Men,North America,13322
+Clothing,Men,Europe,6685
+Clothing,Men,Asia,5769
+Clothing,Men,South America,28333
+Clothing,Men,Africa,7433
+Clothing,Women,North America,10311
+Clothing,Women,Europe,10051
+Clothing,Women,Asia,11420
+Clothing,Women,South America,22568
+Clothing,Women,Africa,25939
+Clothing,Kids,North America,24769
+Clothing,Kids,Europe,11396
+Clothing,Kids,Asia,13666
+Clothing,Kids,South America,23942
+Clothing,Kids,Africa,29233
+Home & Kitchen,Furniture,North America,23431
+Home & Kitchen,Furniture,Europe,7747
+Home & Kitchen,Furniture,Asia,5189
+Home & Kitchen,Furniture,South America,24118
+Home & Kitchen,Furniture,Africa,8005
+Home & Kitchen,Appliances,North America,26042
+Home & Kitchen,Appliances,Europe,6899
+Home & Kitchen,Appliances,Asia,29118
+Home & Kitchen,Appliances,South America,6267
+Home & Kitchen,Appliances,Africa,22912
+Home & Kitchen,Decor,North America,16394
+Home & Kitchen,Decor,Europe,8556
+Home & Kitchen,Decor,Asia,8890
+Home & Kitchen,Decor,South America,13838
+Home & Kitchen,Decor,Africa,19502
